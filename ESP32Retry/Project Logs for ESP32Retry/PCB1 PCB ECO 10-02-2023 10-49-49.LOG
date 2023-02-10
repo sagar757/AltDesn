@@ -1,0 +1,59 @@
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=LED? NewDesignator=LED6
+Change Component Designator: OldDesignator=LED? NewDesignator=LED7
+Change Component Designator: OldDesignator=LED? NewDesignator=LED8
+Change Component Designator: OldDesignator=LED? NewDesignator=LED9
+Change Component Designator: OldDesignator=LED? NewDesignator=LED10
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Net Name : Old Net Name=NetLED?_2 New Net Name=NetLED3_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Net: Name=NetR10_1
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 15400385A3590
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 15400385A3590
+Added Member To Class: ClassName=Sheet1 Member=Component LED3 15400385A3590
+Added Member To Class: ClassName=Sheet1 Member=Component LED4 15400385A3590
+Added Member To Class: ClassName=Sheet1 Member=Component LED5 15400385A3590
+Added Member To Class: ClassName=Sheet1 Member=Component LED6 15400385A3590
+Added Member To Class: ClassName=Sheet1 Member=Component LED7 15400385A3590
+Added Member To Class: ClassName=Sheet1 Member=Component LED8 15400385A3590
+Added Member To Class: ClassName=Sheet1 Member=Component LED10 15400385A3590
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R6 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R7 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R9 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R10 Res1
